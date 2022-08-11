@@ -8,6 +8,7 @@ public class Sample1 {
 		System.out.println("Do well never give up");
 		System.out.println("Thank You");
 		System.out.println("Have a Nice Day");
+		System.out.println("The End");
 	}
 
 }
