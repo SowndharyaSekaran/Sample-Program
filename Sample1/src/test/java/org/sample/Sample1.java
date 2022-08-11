@@ -11,6 +11,7 @@ public class Sample1 {
 		System.out.println("The End");
 		System.out.println("Calculation process Starts");
 		System.out.println("Welcome Shakunthala");
+		System.out.println("Hi, lets begin this project");
 	}
 
 }
