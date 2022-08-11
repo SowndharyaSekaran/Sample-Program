@@ -9,6 +9,7 @@ public class Sample1 {
 		System.out.println("Thank You");
 		System.out.println("Have a Nice Day");
 		System.out.println("The End");
+		System.out.println("Calculation process Starts");
 	}
 
 }
