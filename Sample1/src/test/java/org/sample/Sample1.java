@@ -13,6 +13,7 @@ public class Sample1 {
 		System.out.println("Welcome Shakunthala");
 		System.out.println("Hi, lets begin this project");
 		System.out.println("2*5=10");
+		System.out.println("Add 1 more calculation as 5+5=10");
 	}
 
 }
